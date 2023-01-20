@@ -111,10 +111,10 @@
             <a href="#FAQ'S" class="text-reset">FAQ'S</a>
           </p>
           <p>
-          <a href="https://wa.me/+6281316422975?text=Halo,%20kak%20saya%20mau%20bertanya%20mengenai%20..." target="_blank" rel="noopener noreferrer" class="text-reset">Contact Us</a>
+          <a href="https://wa.me/+62881082225918?text=Halo,%20kak%20saya%20mau%20bertanya%20mengenai%20..." target="_blank" rel="noopener noreferrer" class="text-reset">Contact Us</a>
           </p>
           <p>
-          <a href="https://wa.me/+6281316422975?text=Halo,%20kak%20saya%20mengalami%20kendala%20pada%20..." target="_blank" rel="noopener noreferrer" class="text-reset">Help Center</a>
+          <a href="https://wa.me/+62881082225918?text=Halo,%20kak%20saya%20mengalami%20kendala%20pada%20..." target="_blank" rel="noopener noreferrer" class="text-reset">Help Center</a>
           </p>
         </div>
         <!-- Grid column -->
@@ -132,7 +132,7 @@
             <a href="https://www.tiktok.com/@resin.nana?_t=8Z0oqR2ZH8b&_r=1" target="_blank" rel="noopener noreferrer" class="text-reset">Tiktok</a>
           </p>
           <p>
-            <a href="https://wa.me/+6281316422975" target="_blank" rel="noopener noreferrer" class="text-reset">WhatsApp</a>
+            <a href="https://wa.me/+62881082225918" target="_blank" rel="noopener noreferrer" class="text-reset">WhatsApp</a>
           </p>
         </div>
         <!-- Grid column -->

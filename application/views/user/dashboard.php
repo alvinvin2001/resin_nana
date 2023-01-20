@@ -6,7 +6,7 @@
           <h2 data-aos="fade-up">Make Your Life More Colorful<br>Being Creative Means Loving Life</h2>
           <p data-aos="fade-up" data-aos-delay="100">Anda sudah bosan dengan Casing hape yang gitu - gitu aja, banyak yg kembaran dan pasaran. Resin Nana hadir untuk mengatasi ke galauan kamu , yuk buat casing mu menjadi beda dengan custom di Resin Nana</p>
           <div class="d-flex" data-aos="fade-up" data-aos-delay="200">
-            <a href="https://wa.me/+6281316422975?text=Halo,%20kak%20saya%20mau%20custom%20product%20..." target="_blank" rel="noopener noreferrer" class="btn-book-a-table">Costum Sekarang</a>
+            <a href="https://wa.me/+62881082225918?text=Halo,%20kak%20saya%20mau%20custom%20product%20..." target="_blank" rel="noopener noreferrer" class="btn-book-a-table">Costum Sekarang</a>
           </div>
         </div>
         <div class="col-lg-5 order-1 order-lg-2 text-center text-lg-start">
