@@ -20,6 +20,8 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('yummy/layout');
+		$this->load->view('template/header');
+		$this->load->view('user/dashboard');
+        $this->load->view('template/footer');
 	}
 }
